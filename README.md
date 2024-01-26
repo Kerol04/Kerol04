@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Khairul Hakimi
 ========================================
 
-Enthusiastic Student
+Enthusiastic CyberSec Student
 --------------------
 
 Currently studying and hoping for a bright future in cybersecurity field.

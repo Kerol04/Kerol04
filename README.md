@@ -10,7 +10,7 @@ Currently studying and hoping for a bright future in cybersecurity field.
 *   ✉️  You can contact me at [kh.hakimi20@gmail.com](mailto:kh.hakimi20@gmail.com)
 *   🧠  I'm learning in Network & Computer Security
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Badminton and Volleyball lover. Try me.### Skills 
+*   ⚡  Badminton and Volleyball lover. Try me.
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
